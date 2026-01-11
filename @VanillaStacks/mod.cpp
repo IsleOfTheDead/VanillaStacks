@@ -4,6 +4,7 @@ overview="Double stacks vanilla ammunition, projectiles and firewood. Allows sta
 picture="VanillaStacks/data/picture.paa";
 logoSmall="VanillaStacks/data/logoSmall.paa";
 logo="VanillaStacks/data/logo.paa";
-action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638015273;
+logoOver="VanillaStacks/data/logo.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638015273";
 author="moldypenguins";
 version="1.1";
