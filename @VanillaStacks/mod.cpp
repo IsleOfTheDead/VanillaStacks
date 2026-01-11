@@ -1,10 +1,10 @@
 name="VanillaStacks";
 tooltip="VanillaStacks";
-overview="Double stacks vanilla ammunition, projectiles and firewood. Allows stacks of 5 paper.";
-picture="VanillaStacks/data/picture.paa";
-logoSmall="VanillaStacks/data/logoSmall.paa";
-logo="VanillaStacks/data/logo.paa";
-logoOver="VanillaStacks/data/logo.paa";
+overview="Double stacks vanilla ammunition, bolts, flares and firewood. Allows stacks of 5 paper.";
+picture="VanillaStacks\data\picture.paa";
+logoSmall="VanillaStacks\data\logoSmall.paa";
+logo="VanillaStacks\data\logo.paa";
+logoOver="VanillaStacks\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638015273";
 author="moldypenguins";
-version="1.1";
+version="1.3";

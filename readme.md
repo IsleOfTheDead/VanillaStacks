@@ -5,7 +5,7 @@
 ![DayZ](https://img.shields.io/badge/DayZ-v1.29-6BA539?style=for-the-badge&logo=bohemiainteractive&logoColor=6BA539&labelColor=30363D)
 
 Contains:
-* Double stacks vanilla ammunition, projectiles and firewood. Allows stacks of 5 paper.
+* Double stacks vanilla ammunition, bolts, flares and firewood. Allows stacks of 5 paper.
 
 ## Installation:
 
