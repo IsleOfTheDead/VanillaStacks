@@ -7,4 +7,4 @@ logo="VanillaStacks\data\logo.paa";
 logoOver="VanillaStacks\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638015273";
 author="moldypenguins";
-version="1.3";
+version="1.4";
